@@ -92,3 +92,10 @@ To push your code, type in the following
 git push origin <branch-name>
 ```
 If you're following the tutorial, this branch name would be add-my-name
+
+## Submit a pull request
+As a last step, we need to add the changes from your copy of the repo to the main copy of the repo. To do this, you need to submit a request to the owner of the main repo, so they can check whether your changes are appropriate after which they can **pull** your changes into the main repo. This request is called a **pull request**
+
+After pushing your changes to your personal repo, you should see a green button that appears above saying "compare and pull request. After clicking that, you can add a message, and then click create pull request.
+
+![pull request](https://media.giphy.com/media/4H1uNfgYevSSBSSRhB/giphy.gif)
